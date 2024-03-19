@@ -1,0 +1,8 @@
+{
+  "Cep": "26582-630",
+  "Logradouro": "Rua Sabiás",
+  "Complemento": "",
+  "Bairro": "Cosmorama",
+  "Localidade": "Mesquita",
+  "Uf": "RJ"
+}
